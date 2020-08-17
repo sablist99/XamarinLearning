@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5dmAS7c1AYavRLI2EflbxzUF/CsmW0zsBsvfbu/6VN4DX0VsXfP07G+VupmE67VORCfiWafH2e3ayWrUS2u+IQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Potap\\Desktop\\GitHub\\XamarinLearning\\Phoneword\\Phoneword\\Phoneword.iOS\\Phoneword.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Potap\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Potap\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\Potap\\.nuget\\packages\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}
